@@ -6,3 +6,5 @@
  ██████╔╝╚██████╔╝██║     ███████║██║  ██║
  ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
+
+[Методичка](https://drive.google.com/file/d/1l88KMafR2WswyfXtvUeqaKW7szCELMpY/view?usp=sharing)
