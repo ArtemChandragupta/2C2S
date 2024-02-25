@@ -6,5 +6,5 @@
  ██████╔╝███████╗██║  ██║██████╔╝
  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ 
 ```
-[Курс на СДО](https://lms.spbstu.ru/course/view.php?id=16408)
+[Курс на СДО](https://lms.spbstu.ru/course/view.php?id=16408) \
 [Учётная таблица](https://docs.google.com/spreadsheets/d/1bbnDBCUTAmB6kzA_D5x571H04s3B662ALn-ANmzJUBE/edit#gid=0)
