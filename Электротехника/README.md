@@ -6,5 +6,5 @@
  ███████╗███████╗██║   ███████╗╚██████╗██║  ██║
  ╚══════╝╚══════╝╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
 ```
-[Новая методичка](https://drive.google.com/file/d/1-NEHFMMFv3kbUszpYZo41cb0wyi-f24I/view?usp=drive_link) \ 
+[Новая методичка](https://drive.google.com/file/d/1-NEHFMMFv3kbUszpYZo41cb0wyi-f24I/view?usp=drive_link)  / 
 [Старая методичка](https://cran.r-project.org/web/packages/ags/ags.pdf)
